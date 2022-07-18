@@ -33,13 +33,6 @@ Route::get('pricing.html', function () {
     return view('site.nos_references');
 });
 
-Route::get('blog.html', function () {
-    return view('site.blog');
-});
-
-Route::get('blog-single.html', function () {
-    return view('site.blog-single');
-});
 
 Route::get('contact.html', function () {
     return view('site.contact');
@@ -52,3 +45,8 @@ Route::get('form', function () {
 Route::get('list', function () {
     return view('admin.list');
 });
+
+Route::get('galerie', function () {
+    return view('site.galerie');
+});
+

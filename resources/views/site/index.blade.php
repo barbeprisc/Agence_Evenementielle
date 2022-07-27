@@ -10,11 +10,11 @@
             <div class="carousel-inner" role="listbox">
 
                 <!-- Slide 1 -->
-                <div class="carousel-item active" style="background-image: url(assets/img/slide/siao5.JPG);">
+                <div class="carousel-item active" style="background-image: url(assets/img/slide/siao8.JPG);">
                     <div class="carousel-container">
                         <div class="carousel-content animate__animated animate__fadeInUp">
                             <h2>Soyez les Bienvenues <span>au Salon International de Ouagadougou</span></h2>
-                            <p>Le SIAO regroupe le meuilleur de l artisanat africain (bronze,- textile,maroquinerie,masques antiquaire,bijouterie...).Il promeut les acteurs de ces secteurs d activité, et tente de leur donner une vitrine internationale. Il lance également une réflexion sur les freins au développement de l artisanat sur le continent africain. Il attire de nombreux exposants et visiteurs de tous pays. Le salon se tient les années.</p>
+                            <p>Le SIAO regroupe le meuilleur de l artisanat africain (bronze,- textile,maroquinerie,masques antiquaire,bijouterie...).Il promeut les acteurs de ces secteurs d activité, et tente de leur donner une vitrine internationale. Il lance également une réflexion sur les freins au développement de l artisanat sur le continent africain. Il attire de nombreux exposants et visiteurs de tous pays. Le salon se tient tout les deux ans.</p>
                             <div class="text-center"><a href="" class="btn-get-started">Voir plus</a></div>
                         </div>
                     </div>
@@ -35,8 +35,8 @@
                 <div class="carousel-item" style="background-image: url(assets/img/slide/siaoM.JPG);">
                     <div class="carousel-container">
                         <div class="carousel-content animate__animated animate__fadeInUp">
-                            <h2>Pavillon des bijoux artisanal</h2>
-                            <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+                            <h2>Pavillon des bijoux et Sacs artisanal</h2>
+                            <p>Vivre de ses créations peut paraître utopique, pourtant, il est tout à fait possible de réaliser un joli chiffre d’affaires grâce à la vente de bijoux. Pour cela, il suffit d’avoir la fibre artistique, d’être manuelle et de faire preuve de rigueur.</p>
                             <div class="text-center"><a href="" class="btn-get-started">Voir plus</a></div>
                         </div>
                     </div>
@@ -125,10 +125,10 @@
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
                     <div class="icon-box iconbox-yellow">
                         <div class="icon">
-                            <img src="assets/img/imageSac/sac1.JPG" width="100" height="100" alt="">
+                            <img src="assets/img/imageRafia/vannerieD.JPG" width="100" height="100" alt="">
                         </div>
-                        <h4><a href="">Sac en cuir</a></h4>
-                        <p>Sac moderne fait a base des peaux d animeaux</p>
+                        <h4><a href="">Pannier en liane</a></h4>
+                        <p>Liane venant du congo</p>
                     </div>
                 </div>
 
@@ -137,7 +137,7 @@
                         <div class="icon">
                             <img src="assets/img/imageStatuette/statut1.jpg" width="100" height="100" alt="">
                         </div>
-                        <h4><a href="">Statuettes en bois</a></h4>
+                        <h4><a href="">Statuette en bois</a></h4>
                         <p>Sculpté en bois noir</p>
                     </div>
                 </div>
@@ -145,10 +145,10 @@
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
                     <div class="icon-box iconbox-teal">
                         <div class="icon">
-                            <img src="assets/img/imageRafia/pagneR2.jpg" width="100" height="100" alt="">
+                            <img src="assets/img/imageRafia/sac2.jpg" width="100" height="100" alt="">
                         </div>
                         <h4><a href="">Rafia</a></h4>
-                        <p>Pagne traditionnel venu de l afrique central</p>
+                        <p>Sac en rafia</p>
                     </div>
                 </div>
 
@@ -164,7 +164,7 @@
             <div class="row" data-aos="fade-up">
                 <div class="col-lg-12 d-flex justify-content-center">
                     <ul id="portfolio-flters">
-                        <li data-filter="*" class="filter-active">Poterie</li>
+                        <li data-filter=".filter-p" class="filter-active">Poterie</li>
                         <li data-filter=".filter-app">Tissage</li>
                         <li data-filter=".filter-card">Vannerie</li>
 
@@ -174,66 +174,135 @@
 
             <div class="row portfolio-container" data-aos="fade-up">
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-p">
                     <img src="assets/img/portfolio/poterie1.JPG" class="img-fluid" alt="">
                     <div class="portfolio-info">
-                        <h4>Poterie du Nord </h4>
-
+                        <h4>Poterie du Burkina </h4>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <img src="assets/img/imagePagne/tissage1.JPG" class="img-fluid" alt="">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-p">
+                    <img src="assets/img/portfolio/poterie6.JPG" class="img-fluid" alt="">
                     <div class="portfolio-info">
-                        <h4>Pagne tisse du Burkina</h4>
-
+                        <h4>Poterie du Benin </h4>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <img src="assets/img/portfolio/poterie3.JPG" class="img-fluid" alt="">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-p">
+                    <img src="assets/img/portfolio/poterieG5.JPG" class="img-fluid" alt="">
                     <div class="portfolio-info">
-                        <h4>Poterie du Sud</h4>
+                        <h4>Poterie du Maroc </h4>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <img src="assets/img/portfolio/poterie4.JPG" class="img-fluid" alt="">
-                    <div class="portfolio-info">
-                        <h4>Poterie du Ghana</h4>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-p">
                     <img src="assets/img/portfolio/poterie5.JPG" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>Poterie de la Mauritanie</h4>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-p">
                     <img src="assets/img/portfolio/poterieG1.jpg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>Poterie du Niger</h4>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <img src="assets/img/portfolio/poterieG2.jpg" class="img-fluid" alt="">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-p">
+                    <img src="assets/img/portfolio/pot3.jpg" class="img-fluid" alt="">
                     <div class="portfolio-info">
-                        <h4>Poterie du Burkina Faso</h4>
+                        <h4>Poterie du centrafrique</h4>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-p">
+                    <img src="assets/img/portfolio/pot4.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Poterie du Niger</h4>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-p">
+                    <img src="assets/img/portfolio/pot6.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Poterie du Niger</h4>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    <img src="assets/img/imagePagne/tissage1.JPG" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Pagne tissé du Burkina</h4>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    <img src="assets/img/imagePagne/pagnecote7.JPG" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Pagne tissé du Burkina</h4>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    <img src="assets/img/imagePagne/pagnemauritanie6.JPG" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Pagne tissé de mauritanie</h4>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    <img src="assets/img/imagePagne/pagnecote8.JPG" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Pagne tissé de mauritanie</h4>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    <img src="assets/img/imagePagne/tissage6.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Pagne de la  CI</h4>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    <img src="assets/img/imagePagne/fasodaf1.JPG" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Pagne du Ghana</h4>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <img src="assets/img/portfolio/poterieG3.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/vannerie/vannerieD.jpg" class="img-fluid" alt="">
                     <div class="portfolio-info">
-                        <h4>Poterie du Congo</h4>
+                        <h4>Vannerie du Burkina Faso</h4>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <img src="assets/img/vannerie/vannerie2.jpg" class="img-fluid" alt="">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                    <img src="assets/img/vannerie/siaoD.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Vannerie du Maroc</h4>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                    <img src="assets/img/vannerie/vannerieC.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Vannerie du Tchad</h4>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                    <img src="assets/img/vannerie/vannerieB.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Vannerie du Gabon</h4>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                    <img src="assets/img/vannerie/vannerieA.jpg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>Vannerie du congo</h4>
                     </div>

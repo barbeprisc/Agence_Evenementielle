@@ -138,7 +138,7 @@
                             <img src="assets/img/imageStatuette/statut1.jpg" width="100" height="100" alt="">
                         </div>
                         <h4><a href="">Statuette en bois</a></h4>
-                        <p>Sculpté en bois noir</p>
+                        <p>Sculpture en bois noir</p>
                     </div>
                 </div>
 
@@ -260,7 +260,7 @@
                 </div>
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <img src="assets/img/imagePagne/tissage6.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/imagePagne/pagne3.jpg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>Pagne de la  CI</h4>
                     </div>
@@ -270,6 +270,27 @@
                     <img src="assets/img/imagePagne/fasodaf1.JPG" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>Pagne du Ghana</h4>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    <img src="assets/img/imagePagne/pagne1.JPG" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Pagne de la guine</h4>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    <img src="assets/img/imagePagne/pagne2.JPG" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Pagne du Nigeria</h4>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    <img src="assets/img/imagePagne/pagne4.JPG" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Pagne du Mali</h4>
                     </div>
                 </div>
 

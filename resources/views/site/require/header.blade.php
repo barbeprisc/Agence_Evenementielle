@@ -16,7 +16,7 @@
           </ul>
         </li>
 
-        <li><a href="services.html">Services</a></li>
+        <li><a href="services.html">événements</a></li>
         <li><a href="{{ url('galerie') }}">Galerie</a></li>
         <li><a href="pricing.html">Nos références</a></li>
         <li><a href="contact.html">Contact</a></li>

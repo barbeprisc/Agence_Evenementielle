@@ -26,27 +26,11 @@ Route::get('team.html', function () {
 });
 
 Route::get('services.html', function () {
-    return view('site.services');
+    return view('site.evenements');
 });
 
-Route::get('pricing.html', function () {
-    return view('site.nos_references');
-});
+Route::get('/dashboard', function () {
+    return view('dashboard');
+})->middleware(['auth'])->name('dashboard');
 
-
-Route::get('contact.html', function () {
-    return view('site.contact');
-});
-
-Route::get('form', function () {
-    return view('admin.form');
-});
-
-Route::get('list', function () {
-    return view('admin.list');
-});
-
-Route::get('galerie', function () {
-    return view('site.galerie');
-});
-
+require __DIR__ . '/auth.php';

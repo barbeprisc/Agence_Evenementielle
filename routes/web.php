@@ -50,3 +50,17 @@ Route::get('galerie', function () {
     return view('site.galerie');
 });
 
+Route::get('/', function () {
+    return view('layouts.main');
+});
+
+Route::resource('gestion_event', EvenementContoller::class);
+Route::get('supprimer_evenement/{id}', [EvenementContoller::class, 'destroy']);
+
+Route::resource('gestion_cat', CategorieController::class);
+Route::get('supprimer_categorie/{id}', [CategorieController::class, 'destroy']);
+
+Route::resource('gestion_com', CommentaireController::class);
+Route::get('supprimer_commentaire/{id}', [CommentaireController::class, 'destroy']);
+
+

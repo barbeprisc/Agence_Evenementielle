@@ -1,4 +1,4 @@
-@extends('site.layout.main')
+@extends('Pages.layout.main')
 @section('content')
 
 <main id="main">

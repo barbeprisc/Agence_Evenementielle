@@ -1,4 +1,4 @@
-@extends('site.layout.main')
+@extends('Pages.layout.main')
 @section('content')
 
 <main id="main">
@@ -95,7 +95,7 @@
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                     <div class="icon-box iconbox-blue">
                         <div class="icon">
-                           <img src="assets/img/imageService/malakite2.JPG" width="100" height="100" alt="">
+                            <img src="assets/img/imageService/malakite2.JPG" width="100" height="100" alt="">
                         </div>
                         <h4><a href="">Bijoux en malakite</a></h4>
                         <p>Beaucoup solicité pour sa qualité, fait a base des pierres precieuse</p>
@@ -105,7 +105,7 @@
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
                     <div class="icon-box iconbox-orange ">
                         <div class="icon">
-                           <img src="assets/img/imageChauss/douzaine1.JPG" width="100" height="100" alt="">
+                            <img src="assets/img/imageChauss/douzaine1.JPG" width="100" height="100" alt="">
                         </div>
                         <h4><a href="">Chaussures en cuire</a></h4>
                         <p>Fabriqué a base des peaux d animeaux</p>
@@ -138,7 +138,7 @@
                             <img src="assets/img/imageStatuette/statut1.jpg" width="100" height="100" alt="">
                         </div>
                         <h4><a href="">Statuette en bois</a></h4>
-                        <p>Sculpté en bois noir</p>
+                        <p>Sculpture en bois noir</p>
                     </div>
                 </div>
 
@@ -260,9 +260,9 @@
                 </div>
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <img src="assets/img/imagePagne/tissage6.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/imagePagne/pagne3.jpg" class="img-fluid" alt="">
                     <div class="portfolio-info">
-                        <h4>Pagne de la  CI</h4>
+                        <h4>Pagne de la CI</h4>
                     </div>
                 </div>
 
@@ -270,6 +270,27 @@
                     <img src="assets/img/imagePagne/fasodaf1.JPG" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>Pagne du Ghana</h4>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    <img src="assets/img/imagePagne/pagne1.JPG" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Pagne de la guine</h4>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    <img src="assets/img/imagePagne/pagne2.JPG" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Pagne du Nigeria</h4>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    <img src="assets/img/imagePagne/pagne4.JPG" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Pagne du Mali</h4>
                     </div>
                 </div>
 
